@@ -14,7 +14,7 @@ const tossFun = () => {
   } else if (num1 < num2) {
     output.innerText = "Player 2 won !";
   } else {
-    output.innerText = "Draw, try again 🤐 ";
+    output.innerText = "Tie!, try again 🤐 ";
   }
 };
 
